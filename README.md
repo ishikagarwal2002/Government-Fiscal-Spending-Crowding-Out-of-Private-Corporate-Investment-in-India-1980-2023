@@ -72,7 +72,7 @@ The analysis employs advanced time-series econometric techniques:
 
 ---
 
-## 🧠 Key Skills Demonstrated
+##  Key Skills Demonstrated
 - Econometric modeling (ARDL, ADL, cointegration analysis)  
 - Time-series data handling and transformation  
 - Macroeconomic policy analysis  
